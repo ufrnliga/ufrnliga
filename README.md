@@ -11,3 +11,7 @@ Os projetos refletem o processo de aprendizado dos alunos e, por isso, apresenta
 Este repositório possui finalidade exclusivamente educacional. O conteúdo disponibilizado não constitui recomendação de investimento, oferta de valores mobiliários ou prestação de consultoria financeira. As análises e conclusões são de responsabilidade de seus autores e devem ser interpretadas no contexto acadêmico em que foram produzidas.
 
 A organização do repositório segue a lógica dos projetos desenvolvidos ao longo do tempo, podendo variar conforme o tema, o período de realização ou o grupo responsável. O material aqui reunido busca estimular a replicabilidade, a transparência e o uso responsável de ferramentas quantitativas em finanças.
+
+Vinicio Almeida  
+Coordenador  
+https://sites.google.com/view/vinicioalmeida/
